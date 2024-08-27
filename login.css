@@ -1,0 +1,33 @@
+body {
+    background: url('../image/loginbackground.jpg');
+    height: 100vh;
+  }
+
+  .login-input {
+    background-color: transparent !important;
+    color: white !important;
+  }
+
+  /* label {
+    color: white !important;
+  } */
+
+  .login-input::placeholder{
+    color: white !important;
+  }
+
+  .login-input::value{
+    color: white !important;
+  }
+
+  .box {
+    background: rgb(26, 26, 26, 0.8);
+    border: solid 1px black;
+    border-radius: 5%;
+  }
+
+  /* .signup-input {
+    color: black !important;
+  } */
+
+  
